@@ -1,0 +1,38 @@
+{
+	"id": "6eec3506-db1d-5230-e72f-8ffd5ef80093",
+	"name": "NEW_POST",
+	"description": "",
+	"order": [
+		"c12384f3-9652-c348-a198-1ecf44aec51b"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1540358151134,
+	"owner": "5206572",
+	"public": false,
+	"requests": [
+		{
+			"id": "c12384f3-9652-c348-a198-1ecf44aec51b",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "6eec3506-db1d-5230-e72f-8ffd5ef80093",
+			"data": null,
+			"dataMode": "params",
+			"name": "POST_API_Facebook",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1540358154823,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

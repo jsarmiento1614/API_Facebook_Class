@@ -1,0 +1,38 @@
+{
+	"id": "62a5aa6c-f6bc-ded5-508f-f30cc693a621",
+	"name": "ADD_COMMENTS",
+	"description": "",
+	"order": [
+		"2d26283e-d2a1-0f8d-79e9-bc83c762232f"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1540358270133,
+	"owner": "5206572",
+	"public": false,
+	"requests": [
+		{
+			"id": "2d26283e-d2a1-0f8d-79e9-bc83c762232f",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "62a5aa6c-f6bc-ded5-508f-f30cc693a621",
+			"data": null,
+			"dataMode": "params",
+			"name": "POST_API_Facebook",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1540358271494,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
